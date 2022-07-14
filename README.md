@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwindij&label=Profile%20views&color=0e75b6&style=flat" alt="edwindij" /> </p>
 
-- J'apprends actuellement **React, Python**
+- J'apprends actuellement **React**
 
-- Mon portfolio: [https://edwindijeont.netlify.app](https://edwindijeont.netlify.app)
+- Mon portfolio: https://portfolio2-0-qoxhmc338-edwindij.vercel.app
 
 - Me contacter: **edwin.d899@gmail.com**
 
