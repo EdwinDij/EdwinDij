@@ -5,7 +5,7 @@
 
 - J'apprends actuellement **React**
 
-- Mon portfolio: https://edwindij.vercel.app/
+- Mon portfolio: http://edwin-dijeont.vercel.app/
 
 - Me contacter: **edwin.d899@gmail.com**
 
