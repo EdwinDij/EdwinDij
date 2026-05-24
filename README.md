@@ -56,5 +56,4 @@ Mon portfolio en ligne avec mes projets et expériences.
 ## 📫 Me contacter
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-edwin--dijeont.vercel.app-black?style=flat-square&logo=vercel)](https://edwin-dijeont.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin%20Dijeont-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/edwin-dijeont)
 [![Email](https://img.shields.io/badge/Email-edwin.d899@gmail.com-red?style=flat-square&logo=gmail)](mailto:edwin.d899@gmail.com)
